@@ -13,4 +13,4 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
-- Created from create-react-app and tried navigation without router
+- Created from create-react-app and tried navigation without router with REDUX
